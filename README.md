@@ -1,5 +1,4 @@
 # EDA-and-Feature-Engineering-Mass-Shootings-in-the-USA-
 
-This is a "python for data science" course project in which we got to pick a dataset, ask a research question, and run an exploratory data analysis and feature engineering to answer it. Dataset was cleaned, visualized and results were discussed.
-
-Coming from the psychology field, I found the profile of a mass shooter in the USA interesting.
+A python for data science course project in which a research question is asked over a dataset and is answered using an EDA and feature engineering. 
+Coming from the field of psychology, I wanted to understand better who commits mass shooting in the usa and create a profile for them and determine whether a history of mental illness plays a contributing role.
